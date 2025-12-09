@@ -32,11 +32,11 @@ Here's a non-exhaustive list of ressources that have been used whilst researchin
 
 ## OS choice
 
-Debian was chosen as an OS for it's beginner friendly features and high documentation availability. This contrasts with the other option, Rocky Linux, wich is more pro oriented, and much less easy for a first time administrator.\
+Debian was chosen as an OS for it's beginner friendly features and high documentation availability. This contrasts with the other option, Rocky Linux, wich is more pro oriented, and much less easy for a first time administrator.
 
 ## Partitioning
 
-Partitioning was done using LVM, wich allows dynamic partition resizing, easy storage management and snapshot creation for backup purposes.\
+Partitioning was done using LVM, wich allows dynamic partition resizing, easy storage management and snapshot creation for backup purposes.
 
 ## Security
 
