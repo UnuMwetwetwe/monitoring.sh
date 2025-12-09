@@ -8,13 +8,13 @@ This project consists of creating a virtual machine, setting up an OS and implem
 # Instructions
 
 First, compare the signature key present in the repository.
-To do so, open the default installation folder and go to the VM's folder :
+To do so, open the default installation folder and go to the VM's folder :\
 `~/VirtualBox VMs/foobar_vm/`
 
-Then, retrieve the signature of the VM from the ".vdi" file, in sha1 format :
+Then, retrieve the signature of the VM from the ".vdi" file, in sha1 format :\
 `sha1sum foobar_serv.vdi`
 
-This is an exemple output :
+This is an exemple output :\
 24c66af6e9b5fa9ffaff3f68f891ae111217b69a
 
 # Ressources
@@ -29,3 +29,5 @@ Here's a non-exhaustive list of ressources that have been used while researching
 [God's gift to mankind](https://man7.org/linux/man-pages/man1/man.1.html)
 
 # Project description
+
+Debian was chosen as an OS for it's beginner friendly features and high documentation availability.
