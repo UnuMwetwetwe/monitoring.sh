@@ -19,7 +19,7 @@ This is an exemple output :\
 
 # Ressources
 
-Here's a non-exhaustive list of ressources that have been used while researching for this project :
+Here's a non-exhaustive list of ressources that have been used whilst researching for this project :
 
 [Virtual Box Administrator's Guide](https://docs.oracle.com/en/virtualization/virtualbox/6.1/admin/#Administrator's-Guide-for-Release-6.1)\
 [Debian Wiki](https://wiki.debian.org/)\
@@ -30,4 +30,6 @@ Here's a non-exhaustive list of ressources that have been used while researching
 
 # Project description
 
-Debian was chosen as an OS for it's beginner friendly features and high documentation availability.
+Debian was chosen as an OS for it's beginner friendly features and high documentation availability. This contrasts with the other option, Rocky Linux, wich is more pro oriented, and much less easy for a first time administrator.\
+Partitioning was done using LVM, wich allows dynamic partition resizing, easy storage management and snapshot creation for backup purposes.\
+AppArmor was the security module used
