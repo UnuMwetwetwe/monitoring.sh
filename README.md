@@ -23,7 +23,7 @@ Here's a non-exhaustive list of ressources that have been used while researching
 
 [Virtual Box Administrator's Guide](https://docs.oracle.com/en/virtualization/virtualbox/6.1/admin/#Administrator's-Guide-for-Release-6.1)\
 [Debian Wiki](https://wiki.debian.org/)\
-[LVM page on Ubuntu Wiki](https://doc.ubuntu-fr.org/lvm) (my apologies for the ~french~)
+[LVM page on Ubuntu Wiki](https://doc.ubuntu-fr.org/lvm) (my apologies for the ~french~)\
 [UFW doumentation page](https://help.ubuntu.com/community/UFW)\
 [Password policy module](https://manpages.debian.org/testing/libpam-pwquality/pam_pwquality.8.en.html)\
 [God's gift to mankind](https://man7.org/linux/man-pages/man1/man.1.html)
