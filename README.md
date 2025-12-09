@@ -30,6 +30,12 @@ Here's a non-exhaustive list of ressources that have been used whilst researchin
 
 # Project description
 
+## Virtualizer
+
+Virtual Box is an open source virtualizer known for it's large distro support and ease of use.\
+UTM is a macOS specific front-end for QEMU, a complex emulator.\
+Virtual Box was chosen since the host machine is not running macOS (crazy, I know).
+
 ## OS choice
 
 Debian was chosen as an OS for it's beginner friendly features and high documentation availability. This contrasts with the other option, Rocky Linux, wich is more pro oriented, and much less easy for a first time administrator.
@@ -40,7 +46,7 @@ Partitioning was done using LVM, wich allows dynamic partition resizing, easy st
 
 ## Security
 
-AppArmor was the security module used wich provides Mandatory Access Control seurity. It allows per user and path-based restrictions, as well as working flawlessly with standard Linux file permissions.
+AppArmor was the security module used wich provides Mandatory Access Control seurity. It allows per user and path-based restrictions, as well as working flawlessly with standard Linux file permissions.\
 While SELinux offers a more strict security system, AppArmor is easier to configure, and works just fine for home computers as well as servers where ease of management is top priority.\
 AppArmor needs less maintenance than SELinux since it contains less rules, wich also gives it better performances.
 
@@ -48,5 +54,7 @@ For password security, libpam-pwquality was used to allow stricter password rule
 
 ## Firewall
 
-UFW is a firewall manager wich provides 
+UFW is a firewall manager wich provides an easy to use interface.\
+FirewallD serves as front-end for iptables or nftables.\
+The choice was made to use UFW for, once again, it's beginner friendly features (who would've known...)\
 
