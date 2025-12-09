@@ -19,7 +19,7 @@ This is an exemple output :\
 
 Once this is done, simply launch Virtual Box, then make a snapshot of the VM.
 
-You can now start the main part of the correction.
+You can now launch and freely modify the VM.
 
 # Ressources
 
