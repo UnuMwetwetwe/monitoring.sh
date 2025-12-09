@@ -40,4 +40,13 @@ Partitioning was done using LVM, wich allows dynamic partition resizing, easy st
 
 ## Security
 
-AppArmor was the security module used
+AppArmor was the security module used wich provides Mandatory Access Control seurity. It allows per user and path-based restrictions, as well as working flawlessly with standard Linux file permissions.
+While SELinux offers a more strict security system, AppArmor is easier to configure, and works just fine for home computers as well as servers where ease of management is top priority.\
+AppArmor needs less maintenance than SELinux since it contains less rules, wich also gives it better performances.
+
+For password security, libpam-pwquality was used to allow stricter password rules.
+
+## Firewall
+
+UFW is a firewall manager wich provides 
+
