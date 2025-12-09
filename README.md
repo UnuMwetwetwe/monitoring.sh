@@ -21,8 +21,8 @@ This is an exemple output :
 
 Here's a list of ressources that have been used while researching for this project :
 
-[Virtual Box Administrator's Guide](https://docs.oracle.com/en/virtualization/virtualbox/6.1/admin/#Administrator's-Guide-for-Release-6.1).
-[Debian Wiki](https://wiki.debian.org/).
-[LVM page on Ubuntu Wiki](https://doc.ubuntu-fr.org/lvm)(my appologies for the ~french~).
+[Virtual Box Administrator's Guide](https://docs.oracle.com/en/virtualization/virtualbox/6.1/admin/#Administrator's-Guide-for-Release-6.1)\
+[Debian Wiki](https://wiki.debian.org/)\
+[LVM page on Ubuntu Wiki](https://doc.ubuntu-fr.org/lvm)(my appologies for the ~french~)\
 
 # Project description
