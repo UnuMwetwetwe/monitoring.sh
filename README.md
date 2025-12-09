@@ -58,3 +58,9 @@ UFW is a firewall manager wich provides an easy to use interface.\
 FirewallD serves as front-end for iptables or nftables.\
 The choice was made to use UFW for, once again, it's beginner friendly features (who would've known...)\
 
+## User Management
+
+(almost) Everything regarding user managment was done using basal Linux tools, such as :\
+`groupadd foo` | create foo group\
+`usermod -a -g foo foobar` | adds user foobar to group foo\
+`visudo` | to configure sudo permissions (not factually basal, but basal in the heart of every Linux users)
