@@ -17,6 +17,10 @@ Then, retrieve the signature of the VM from the ".vdi" file, in sha1 format :\
 This is an exemple output :\
 24c66af6e9b5fa9ffaff3f68f891ae111217b69a
 
+Once this is done, simply launch Virtual Box, then make a snapshot of the VM.\
+
+You can now start the main part of the correction.
+
 # Ressources
 
 Here's a non-exhaustive list of ressources that have been used whilst researching for this project :
