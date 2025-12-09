@@ -3,7 +3,7 @@
 # Description
 
 This repository contains the signature key to a virtual machine as part of the Born2BeRoot project.
-This project consists of creating a virtual machine, setting up an OS and implementing strict rules.
+This project consists of creating a virtual machine, setting up an OS and implementing strict rules to make the system secure.
 
 # Instructions
 
